@@ -1,0 +1,6 @@
+{
+  "name": "MinerU 批量处理可视化工具",
+  "description": "专为 PowerShell + .venv 本地环境打造的 MinerU 批量提取可视化控制面板。支持多级子目录递归扫描、自定义提取模式、LaTeX公式与表格识别，并一键导出 PowerShell 脚本与 Gradio 本地 WebUI 运行程序。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
